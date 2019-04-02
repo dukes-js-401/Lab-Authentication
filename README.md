@@ -8,8 +8,8 @@
 * [heroku](https://strawberry-cupcake-28495.herokuapp.com/) 
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
-* [jsdoc](http://xyz.com) (All assignments)
+* [swagger](http://xyz.com) nope
+* [jsdoc](http://xyz.com) nope
 
 ### Modules
 -/auth
