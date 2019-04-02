@@ -3,10 +3,9 @@
 ### Author: Gregory Dukes   with AaronF, Cory, Jon, Vanessa, Alex, Spencer
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [repo](https://github.com/dukes-js-401/Lab-Authentication/pull/1)
+* [travis](http://xyz.com) badge coming soon
+* [heroku](https://strawberry-cupcake-28495.herokuapp.com/) 
 
 #### Documentation
 * [swagger](http://xyz.com) (API assignments only)
@@ -49,7 +48,7 @@ Usage Notes or examples
   * Returns an error, "Invalid Username or Password"
 * Endpoint: `http :3000/books -a <username>:<password>`
   * Returns a JSON object with all books from db.
-   
+
 #### Tests
 
 #### UML
